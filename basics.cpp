@@ -7,6 +7,5 @@ int main() {
   cout << sizeof(int);
   cout << sizeof(float);
   cout << sizeof(double);
-  cout << a++;
-  cout << length(s);
   return 0;
+}
